@@ -50,6 +50,7 @@ img:hover {
 
 .column {
   display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
 }
  .column2 {
    display: inline-block;
